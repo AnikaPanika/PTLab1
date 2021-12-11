@@ -1,3 +1,4 @@
+[![Build Status](https://app.travis-ci.com/AnikaPanika/PTLab1.svg?branch=main)](https://app.travis-ci.com/AnikaPanika/PTLab1)
 # Лабораторная 1 по дисциплине "Технологии программирования"
 Знакомство с системой контроля версий Git и инструментом CI/CD Travis CI
 ##Цели работы:
